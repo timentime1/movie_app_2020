@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ovie_app_2020/static/css/main.6d61d015.chunk.css",
+    "main.js": "/ovie_app_2020/static/js/main.eaf2cb83.chunk.js",
+    "main.js.map": "/ovie_app_2020/static/js/main.eaf2cb83.chunk.js.map",
+    "runtime-main.js": "/ovie_app_2020/static/js/runtime-main.58fd6bad.js",
+    "runtime-main.js.map": "/ovie_app_2020/static/js/runtime-main.58fd6bad.js.map",
+    "static/js/2.69a0b1d1.chunk.js": "/ovie_app_2020/static/js/2.69a0b1d1.chunk.js",
+    "static/js/2.69a0b1d1.chunk.js.map": "/ovie_app_2020/static/js/2.69a0b1d1.chunk.js.map",
+    "index.html": "/ovie_app_2020/index.html",
+    "precache-manifest.aa2ecb5a59d5cfdd98c13d5b50891300.js": "/ovie_app_2020/precache-manifest.aa2ecb5a59d5cfdd98c13d5b50891300.js",
+    "service-worker.js": "/ovie_app_2020/service-worker.js",
+    "static/css/main.6d61d015.chunk.css.map": "/ovie_app_2020/static/css/main.6d61d015.chunk.css.map",
+    "static/js/2.69a0b1d1.chunk.js.LICENSE.txt": "/ovie_app_2020/static/js/2.69a0b1d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58fd6bad.js",
+    "static/js/2.69a0b1d1.chunk.js",
+    "static/css/main.6d61d015.chunk.css",
+    "static/js/main.eaf2cb83.chunk.js"
+  ]
+}
